@@ -1,6 +1,7 @@
+package boj;
+
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.Scanner;
 
 // Fail............
 public class Boj1016 {
