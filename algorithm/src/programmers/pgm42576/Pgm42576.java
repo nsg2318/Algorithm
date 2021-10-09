@@ -1,7 +1,7 @@
-package programmers.submit;
+package programmers.pgm42576;
 import java.util.Arrays;
 
-public class pgm42576 {
+public class Pgm42576 {
     public String solution(String[] participant, String[] completion) {
 
         String result = "";
