@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c8706e3e-915f-4f3f-8f38-f939f4c8bb55" name="Changes" comment="백준 알고리즘">
+=======
+    <list default="true" id="c8706e3e-915f-4f3f-8f38-f939f4c8bb55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithm/src/boj/Boj1010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/programmers/pgm42578/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/programmers/pgm42578/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/boj/Boj1010.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/programmers/pgm42578/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/programmers/pgm42578/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +55,24 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Main (4)">
+=======
+  <component name="RunManager" selected="Application.Boj1040">
+    <configuration name="Boj1040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.Boj1040" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> origin/master
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.pgm42626.Main" />
       <module name="algorithm" />
@@ -98,6 +125,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.pgm42748.Main" />
       <module name="algorithm" />
@@ -114,6 +142,11 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (4)" />
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Boj1040" />
+>>>>>>> origin/master
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
@@ -140,7 +173,12 @@
       <workItem from="1645670721000" duration="15341000" />
       <workItem from="1645744754157" duration="1253000" />
       <workItem from="1645774373608" duration="5340000" />
+<<<<<<< HEAD
       <workItem from="1656152562188" duration="5379000" />
+=======
+      <workItem from="1646833753550" duration="2377000" />
+      <workItem from="1647070351259" duration="4101000" />
+>>>>>>> origin/master
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1629723748370</created>
@@ -179,7 +217,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
