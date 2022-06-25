@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8706e3e-915f-4f3f-8f38-f939f4c8bb55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/boj/Boj1010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/programmers/pgm42578/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/programmers/pgm42578/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/boj/Boj1010.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/programmers/pgm42578/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/programmers/pgm42578/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+    <list default="true" id="c8706e3e-915f-4f3f-8f38-f939f4c8bb55" name="Changes" comment="백준 알고리즘">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +45,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.pgm42626.Main" />
       <module name="algorithm" />
@@ -92,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.pgm43165.Main" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.pgm43165.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmers.pgm42748.Main" />
       <module name="algorithm" />
@@ -105,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pgm42577Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.pgm42577.Pgm42577Main" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.pgm42577.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Pgm42577Main" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +140,7 @@
       <workItem from="1645670721000" duration="15341000" />
       <workItem from="1645744754157" duration="1253000" />
       <workItem from="1645774373608" duration="5340000" />
+      <workItem from="1656152562188" duration="5379000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1629723748370</created>
@@ -199,6 +193,11 @@
           <url>file://$PROJECT_DIR$/algorithm/src/programmers/pgm42627/Solution.java</url>
           <line>10</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/programmers/pgm43165/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
